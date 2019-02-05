@@ -1,0 +1,3 @@
+1.) to add comments in c++ you use two slashes (  //  )after the code or on  a fresh line because anything after the two slashes will be ignored by the program
+2.) to comment in Python code it it very similar except you use a hash (  #  ) instead in place of two slashes.
+3.) .md is a the file type "markdown" and is similiar to text files.
